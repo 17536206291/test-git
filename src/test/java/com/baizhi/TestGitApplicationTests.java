@@ -13,5 +13,10 @@ class TestGitApplicationTests {
 
     public static void main(String[] args) {
         System.out.println("hsadhh");
+        System.out.println("hsadhh");
+        System.out.println("hsadhh");
+        System.out.println("hsadhh");
+        System.out.println("hsadhh");
+        System.out.println("hsadhh");
     }
 }
